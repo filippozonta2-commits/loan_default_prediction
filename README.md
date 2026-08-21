@@ -92,3 +92,9 @@ This is an educational portfolio project, not a production underwriting system. 
 ## License
 
 MIT.
+
+
+## Upcoming projects
+
+- [Portfolio Dashboard](projects/portfolio_dashboard/README.md)
+- [AML Transaction Monitoring](projects/aml_transaction_monitoring/README.md)
