@@ -1,0 +1,7 @@
+random_state: 42
+test_size: 0.20
+decision_threshold: 0.50
+model:
+  type: logistic_regression
+  max_iter: 1000
+  class_weight: balanced
